@@ -25,3 +25,14 @@
 	height: 50px;
 	border: 1px solid green;
 }
+
+.feature {
+	display: inline-block;
+	width: 30%;
+	margin: auto;
+}
+
+#features {
+	width: 70%;
+	margin: auto;
+}
