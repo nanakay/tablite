@@ -36,3 +36,15 @@
 	width: 70%;
 	margin: auto;
 }
+#banner{
+	
+	margin-top: 50px;
+	padding: 40px 0px 0px 0px;
+	height: 456px;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+}
+background-image: url("FreelancePro.me - The Freelance Professional's Centralized Reputation Profile_files/images/tabliteHeader.png") no-repeat;
+style="margin-top: 50px; padding: 40px 0px 0px 0px; height: 456px; transition: all 1s ease;"
